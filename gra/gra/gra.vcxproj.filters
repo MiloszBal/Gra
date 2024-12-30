@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gra.cpp">
+    <ClCompile Include="..\..\..\..\..\..\Downloads\sfml_animacja_w4 (4)\sfml_animacja_w4\animacja_niesterowana.cpp">
       <Filter>Pliki źródłowe</Filter>
     </ClCompile>
   </ItemGroup>
